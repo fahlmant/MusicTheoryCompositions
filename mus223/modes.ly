@@ -65,7 +65,7 @@ PartPOneVoiceOne =  \relative f' {
     es8 [ f8 ges8 es8 f8 ] | \barNumberCheck #40
     f'4 c4. | % 41
     as4 g4. | % 42
-    f2 ~ f8 ^"D.S al Fine" \bar "|."
+    f2 ~ f8 ^"D.C. al Fine" \bar "|."
     }
 
 PartPOneVoiceFive =  \relative f {
