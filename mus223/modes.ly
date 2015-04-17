@@ -3,8 +3,8 @@
 % automatically converted by musicxml2ly from modes.xml
 
 \header {
-    encodingsoftware = "MuseScore 1.3"
-    encodingdate = "2015-04-16"
+    title = "I've Heard It Both Ways"
+    composer = "Taylor Fahlman"
     }
 
 #(set-global-staff-size 20.0750126457)
@@ -128,6 +128,6 @@ PartPOneVoiceFive =  \relative f {
         >>
     \layout {}
     % To create MIDI output, uncomment the following line:
-    %  \midi {}
+    \midi {}
     }
 
